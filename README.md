@@ -1,4 +1,7 @@
+
+
 ---
+
 # 🧠 Enhanced Character.AI Chatbot with Suicide Prevention & RAG Recommendations
 
 This project is an **AI-powered chatbot** that integrates **Character.AI**, **Groq LLM**, and **LangChain RAG** to provide:
@@ -105,4 +108,6 @@ The chatbot includes **verified Indian helplines** such as:
 ## 🧑‍💻 Author
 
 Built with ❤️ for safe AI conversations and mental health support.
+
 ---
+

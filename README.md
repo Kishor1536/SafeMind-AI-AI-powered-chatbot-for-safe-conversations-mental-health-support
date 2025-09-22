@@ -1,7 +1,4 @@
-Got it 👍 You want a `README.md` for your GitHub repo that explains what this project does, how to run it, and gives people a good overview. Here’s a clean draft for your Markdown file:
-
 ---
-
 # 🧠 Enhanced Character.AI Chatbot with Suicide Prevention & RAG Recommendations
 
 This project is an **AI-powered chatbot** that integrates **Character.AI**, **Groq LLM**, and **LangChain RAG** to provide:
@@ -108,7 +105,4 @@ The chatbot includes **verified Indian helplines** such as:
 ## 🧑‍💻 Author
 
 Built with ❤️ for safe AI conversations and mental health support.
-
 ---
-
-Would you like me to also **generate a `requirements.txt`** file automatically from your code imports so that your GitHub repo is plug-and-play?
